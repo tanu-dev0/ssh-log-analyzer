@@ -1,0 +1,12 @@
+Sep 25 03:10:02 server sshd[1190]: Accepted password for tanu from 10.0.0.5 port 51700 ssh2
+Sep 25 03:12:47 server sshd[1201]: Failed password for invalid user oracle from 45.83.12.9 port 51712 ssh2
+Sep 25 03:13:02 server sshd[1202]: Failed password for invalid user oracle from 45.83.12.9 port 51713 ssh2
+Sep 25 03:14:15 server sshd[1234]: Failed password for invalid user admin from 192.168.1.50 port 51763 ssh2
+Sep 25 03:14:20 server sshd[1235]: Failed password for root from 192.168.1.50 port 51764 ssh2
+Sep 25 03:14:29 server sshd[1236]: Failed password for root from 192.168.1.50 port 51765 ssh2
+Sep 25 03:14:41 server sshd[1237]: Failed password for invalid user test from 192.168.1.50 port 51766 ssh2
+Sep 25 03:14:55 server sshd[1238]: Failed password for invalid user admin from 192.168.1.50 port 51767 ssh2
+Sep 25 03:15:10 server sshd[1239]: Accepted password for root from 192.168.1.50 port 51768 ssh2
+Sep 25 03:20:00 server sshd[1260]: Accepted password for priya from 10.0.0.8 port 51780 ssh2
+Sep 25 03:25:11 server sshd[1270]: Failed password for invalid user backup from 203.0.113.44 port 51790 ssh2
+Sep 25 04:02:30 server sshd[1290]: Accepted password for tanu from 10.0.0.5 port 51800 ssh2
